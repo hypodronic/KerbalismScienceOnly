@@ -13,7 +13,7 @@ PART
 
 	MODEL
 	{
-		model = KerbalismScienceOnly/Parts/GeigerCounter/Probe_GeigerCounter
+		model = KerbalismConfig/Parts/GeigerCounter/Probe_GeigerCounter
 	} 
 
 	//rescaleFactor = 0.6
